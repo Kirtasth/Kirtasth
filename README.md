@@ -1,15 +1,15 @@
 <h1 align="center">Hola 👋, soy David Soto</h1>
 <h3 align="center">Programador Junior en España</h3>
 
-- 🔭 Actualmente trabajo en **Coding Giants**
+- 🔭 Actualmente trabajo en **Coding Giants**, aunque estoy abierto para más oportunidades
 
 - 🌱 Estoy aprendiendo **SpringBoot**
 
-- 👯 Busco colaborar en **proyectos**
+- 👯 Busco colaborar en proyectos
 
 - 📫 Contáctame en **davidsotoarb@gmail.com**
 
-- ⚡ Me encanta el **café**
+- ⚡ Me encanta el **café** ☕☕☕
 
 <h3 align="left">Contáctame en:</h3>
 <p align="left">
